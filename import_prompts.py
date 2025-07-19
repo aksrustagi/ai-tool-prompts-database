@@ -225,4 +225,6 @@ def import_prompts():
     print(f"Imported {len(prompts_data)} prompts into Supabase")
 
 if __name__ == "__main__":
+    print("Starting import of AI tool prompts...")
     import_prompts()
+    print("Import completed successfully!")

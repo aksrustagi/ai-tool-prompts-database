@@ -2,6 +2,10 @@
 
 This project creates a Supabase database to store and manage prompts from various AI tools. It includes scripts to import prompts from the [system-prompts-and-models-of-ai-tools](https://github.com/ABoringBusiness/system-prompts-and-models-of-ai-tools) repository, a database schema, API functions, and a frontend component for displaying and interacting with the prompts.
 
+![AI Tool Prompts Database](https://img.shields.io/badge/AI%20Tool%20Prompts-Database-blue)
+![Supabase](https://img.shields.io/badge/Supabase-Database-green)
+![React](https://img.shields.io/badge/React-Frontend-orange)
+
 ## Features
 
 - **Comprehensive Database Schema**: Stores prompts with metadata, versioning, user interactions, and comments
